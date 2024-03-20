@@ -1,17 +1,16 @@
 body {
-    
-    font-family: 'Trebuchet MS', sans-serif;
+ font-family: 'Trebuchet MS', sans-serif;
       
 }
 
 .recipe-title {
-
     text-decoration: none;
     color: black;
 }
 
-#carbonara-img {
+.recipe-img {
    width: 250px;
    max-width: 400px;
    height: 275px;
 }
+
